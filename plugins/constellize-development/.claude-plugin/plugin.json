@@ -1,0 +1,15 @@
+{
+  "name": "constellize-development",
+  "version": "1.0.0",
+  "description": "Software development agents",
+  "author": {
+    "name": "Constellize",
+    "url": "https://constellize.com"
+  },
+  "keywords": [
+    "constellize",
+    "development"
+  ],
+  "skills": "./skills/",
+  "agents": "./agents/"
+}
